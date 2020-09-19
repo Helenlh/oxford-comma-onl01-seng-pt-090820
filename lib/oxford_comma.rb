@@ -9,7 +9,5 @@ def oxford_comma(array)
   array.join (", ")
  end 
 end 
-# oxford_comma(["kiwi"])).to eq("kiwi")
-# oxford_comma(["kiwi", "durian"])).to eq("kiwi and durian")
-# "kiwi, durian, and starfruit"
+
   
